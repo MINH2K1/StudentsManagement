@@ -28,6 +28,12 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
+              "C:\\Users\\Admin\\Documents\\1Productforme\\StudentsManagement\\StudentsManagement.DataAcces\\StudentsManagement.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Documents\\1Productforme\\StudentsManagement\\StudentsManagement.DataAcces\\StudentsManagement.DataAccess.csproj"
+              },
+              "C:\\Users\\Admin\\Documents\\1Productforme\\StudentsManagement\\StudentsManagement.Domain\\StudentsManagement.Domain.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Documents\\1Productforme\\StudentsManagement\\StudentsManagement.Domain\\StudentsManagement.Domain.csproj"
+              },
               "C:\\Users\\Admin\\Documents\\1Productforme\\StudentsManagement\\StudentsManagement.Infastructure\\StudentsManagement.Infastructure.csproj": {
                 "projectPath": "C:\\Users\\Admin\\Documents\\1Productforme\\StudentsManagement\\StudentsManagement.Infastructure\\StudentsManagement.Infastructure.csproj"
               }
@@ -110,11 +116,19 @@
               "target": "Package",
               "version": "[6.0.15, )"
             },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.15, )"
+            },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
               "version": "[6.0.15, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.13, )"
             }
           },
           "imports": [
