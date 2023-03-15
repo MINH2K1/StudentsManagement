@@ -1,0 +1,17 @@
+C:\Users\Admin\Documents\1Productforme\StudentsManagement\StudentsManagement.DataAcces\bin\Debug\net6.0\StudentsManagement.DataAccess.deps.json
+C:\Users\Admin\Documents\1Productforme\StudentsManagement\StudentsManagement.DataAcces\bin\Debug\net6.0\StudentsManagement.DataAccess.dll
+C:\Users\Admin\Documents\1Productforme\StudentsManagement\StudentsManagement.DataAcces\bin\Debug\net6.0\StudentsManagement.DataAccess.pdb
+C:\Users\Admin\Documents\1Productforme\StudentsManagement\StudentsManagement.DataAcces\bin\Debug\net6.0\StudentsManagement.Domain.dll
+C:\Users\Admin\Documents\1Productforme\StudentsManagement\StudentsManagement.DataAcces\bin\Debug\net6.0\StudentsManagement.Domain.pdb
+C:\Users\Admin\Documents\1Productforme\StudentsManagement\StudentsManagement.DataAcces\obj\Debug\net6.0\StudentsManagement.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\1Productforme\StudentsManagement\StudentsManagement.DataAcces\obj\Debug\net6.0\StudentsManagement.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\1Productforme\StudentsManagement\StudentsManagement.DataAcces\obj\Debug\net6.0\StudentsManagement.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\1Productforme\StudentsManagement\StudentsManagement.DataAcces\obj\Debug\net6.0\StudentsManagement.DataAccess.AssemblyInfo.cs
+C:\Users\Admin\Documents\1Productforme\StudentsManagement\StudentsManagement.DataAcces\obj\Debug\net6.0\StudentsManagement.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\1Productforme\StudentsManagement\StudentsManagement.DataAcces\obj\Debug\net6.0\StudentsManagement.DataAccess.csproj.CopyComplete
+C:\Users\Admin\Documents\1Productforme\StudentsManagement\StudentsManagement.DataAcces\obj\Debug\net6.0\StudentsManagement.DataAccess.dll
+C:\Users\Admin\Documents\1Productforme\StudentsManagement\StudentsManagement.DataAcces\obj\Debug\net6.0\refint\StudentsManagement.DataAccess.dll
+C:\Users\Admin\Documents\1Productforme\StudentsManagement\StudentsManagement.DataAcces\obj\Debug\net6.0\StudentsManagement.DataAccess.pdb
+C:\Users\Admin\Documents\1Productforme\StudentsManagement\StudentsManagement.DataAcces\obj\Debug\net6.0\ref\StudentsManagement.DataAccess.dll
+C:\Users\Admin\Documents\1Productforme\StudentsManagement\StudentsManagement.DataAcces\bin\Debug\net6.0\StudentsManagement.DataAccess.runtimeconfig.json
+C:\Users\Admin\Documents\1Productforme\StudentsManagement\StudentsManagement.DataAcces\obj\Debug\net6.0\StudentsManagement.DataAccess.genruntimeconfig.cache

@@ -1,0 +1,17 @@
+C:\Users\Admin\Documents\1Productforme\StudentsManagement\StudentsManagement.Infastructure\bin\Debug\net6.0\StudentsManagement.Infastructure.deps.json
+C:\Users\Admin\Documents\1Productforme\StudentsManagement\StudentsManagement.Infastructure\bin\Debug\net6.0\StudentsManagement.Infastructure.dll
+C:\Users\Admin\Documents\1Productforme\StudentsManagement\StudentsManagement.Infastructure\bin\Debug\net6.0\StudentsManagement.Infastructure.pdb
+C:\Users\Admin\Documents\1Productforme\StudentsManagement\StudentsManagement.Infastructure\bin\Debug\net6.0\StudentsManagement.DataAccess.dll
+C:\Users\Admin\Documents\1Productforme\StudentsManagement\StudentsManagement.Infastructure\bin\Debug\net6.0\StudentsManagement.Domain.dll
+C:\Users\Admin\Documents\1Productforme\StudentsManagement\StudentsManagement.Infastructure\bin\Debug\net6.0\StudentsManagement.DataAccess.pdb
+C:\Users\Admin\Documents\1Productforme\StudentsManagement\StudentsManagement.Infastructure\bin\Debug\net6.0\StudentsManagement.Domain.pdb
+C:\Users\Admin\Documents\1Productforme\StudentsManagement\StudentsManagement.Infastructure\obj\Debug\net6.0\StudentsManagement.Infastructure.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\1Productforme\StudentsManagement\StudentsManagement.Infastructure\obj\Debug\net6.0\StudentsManagement.Infastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\1Productforme\StudentsManagement\StudentsManagement.Infastructure\obj\Debug\net6.0\StudentsManagement.Infastructure.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\1Productforme\StudentsManagement\StudentsManagement.Infastructure\obj\Debug\net6.0\StudentsManagement.Infastructure.AssemblyInfo.cs
+C:\Users\Admin\Documents\1Productforme\StudentsManagement\StudentsManagement.Infastructure\obj\Debug\net6.0\StudentsManagement.Infastructure.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\1Productforme\StudentsManagement\StudentsManagement.Infastructure\obj\Debug\net6.0\StudentsManagement.Infastructure.csproj.CopyComplete
+C:\Users\Admin\Documents\1Productforme\StudentsManagement\StudentsManagement.Infastructure\obj\Debug\net6.0\StudentsManagement.Infastructure.dll
+C:\Users\Admin\Documents\1Productforme\StudentsManagement\StudentsManagement.Infastructure\obj\Debug\net6.0\refint\StudentsManagement.Infastructure.dll
+C:\Users\Admin\Documents\1Productforme\StudentsManagement\StudentsManagement.Infastructure\obj\Debug\net6.0\StudentsManagement.Infastructure.pdb
+C:\Users\Admin\Documents\1Productforme\StudentsManagement\StudentsManagement.Infastructure\obj\Debug\net6.0\ref\StudentsManagement.Infastructure.dll

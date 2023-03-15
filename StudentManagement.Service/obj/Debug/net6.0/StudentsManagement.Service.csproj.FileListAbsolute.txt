@@ -1,0 +1,12 @@
+C:\Users\Admin\Documents\1Productforme\StudentsManagement\StudentManagement.Service\bin\Debug\net6.0\StudentsManagement.Service.deps.json
+C:\Users\Admin\Documents\1Productforme\StudentsManagement\StudentManagement.Service\bin\Debug\net6.0\StudentsManagement.Service.dll
+C:\Users\Admin\Documents\1Productforme\StudentsManagement\StudentManagement.Service\bin\Debug\net6.0\StudentsManagement.Service.pdb
+C:\Users\Admin\Documents\1Productforme\StudentsManagement\StudentManagement.Service\obj\Debug\net6.0\StudentsManagement.Service.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\1Productforme\StudentsManagement\StudentManagement.Service\obj\Debug\net6.0\StudentsManagement.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\1Productforme\StudentsManagement\StudentManagement.Service\obj\Debug\net6.0\StudentsManagement.Service.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\1Productforme\StudentsManagement\StudentManagement.Service\obj\Debug\net6.0\StudentsManagement.Service.AssemblyInfo.cs
+C:\Users\Admin\Documents\1Productforme\StudentsManagement\StudentManagement.Service\obj\Debug\net6.0\StudentsManagement.Service.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\1Productforme\StudentsManagement\StudentManagement.Service\obj\Debug\net6.0\StudentsManagement.Service.dll
+C:\Users\Admin\Documents\1Productforme\StudentsManagement\StudentManagement.Service\obj\Debug\net6.0\refint\StudentsManagement.Service.dll
+C:\Users\Admin\Documents\1Productforme\StudentsManagement\StudentManagement.Service\obj\Debug\net6.0\StudentsManagement.Service.pdb
+C:\Users\Admin\Documents\1Productforme\StudentsManagement\StudentManagement.Service\obj\Debug\net6.0\ref\StudentsManagement.Service.dll
